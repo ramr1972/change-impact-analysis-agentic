@@ -1,0 +1,9 @@
+# Saleor consumer repositories to scan for impact
+# One repo URL per line — lines starting with # are comments
+
+https://github.com/saleor/saleor-dashboard
+https://github.com/saleor/apps
+https://github.com/saleor/configurator
+https://github.com/saleor/awesome-saleor
+https://github.com/saleor/storefront
+https://github.com/saleor/saleor-graphql-playground
