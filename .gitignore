@@ -1,0 +1,15 @@
+# Runtime workspace (cloned repos, logs, results)
+workspace/
+
+# macOS
+.DS_Store
+
+# Build logs
+build.log
+
+# Editor
+.vscode/
+.idea/
+
+# Kiro IDE config (local)
+.kiro/
